@@ -22,7 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "seiyria-bootstrap-slider": "https://github.com/JonathanWade/bootstrap-slider.git",
+    "seiyria-bootstrap-slider": "https://github.com/JonathanWade/bootstrap-slider.git#24213c3c2791bc77ebea42b8f7e4798ceace437e",
     "angular": "~1.2.16"
   }
 }
