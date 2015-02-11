@@ -117,7 +117,7 @@ angular.module('ui.bootstrap-slider', [])
                         }
                         else {
                             // default to slide event
-                            updateEvent = ['slide'];
+                            updateEvent = ['slide','slideStop'];
                         }
                         angular.forEach( updateEvent, function ( sliderEvent ) {
                             slider.on( sliderEvent, function ( ev ) {
